@@ -1,3 +1,4 @@
+# Fooocus 简体中文语言文件  
 2024年4月2日更新，适配Fooocus 2.3.1版。  
 ![interface](https://github.com/tek2y/Fooocus-cnlang/blob/main/screenshot/interface.png)  
   
