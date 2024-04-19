@@ -96,11 +96,12 @@
 	"beautiful eyes": "美丽的眼睛",
 
 
-	"Outpaint Expansion Direction:": "扩展绘制方向：（重绘快捷键：Alt+滚轮 - 缩放画布，Ctrl+滚轮 - 调整画笔大小，R - 重置缩放，S - 全屏，F - 移动画布，O - 图层重叠）",
-	"Alt + wheel": "Alt + 滚轮",
+	"Outpaint Expansion Direction:": "扩展绘制方向：（重绘快捷键：Shift+滚轮 - 缩放画布，Ctrl+滚轮 - 调整画笔大小，Ctrl + Z - 撤消上次操作，R - 重置缩放，S - 全屏，F - 移动画布，O - 图层重叠）",
+	"Shift + wheel": "Shift + 滚轮",
 	"Ctrl + wheel": "Ctrl + 滚轮",
 	"- Zoom canvas": "= 缩放画布",
 	"- Adjust brush size": "= 调整画笔大小",
+	"- Undo last action": "= 撤消上次操作",
 	"- Reset zoom": "= 重置缩放",
 	"- Fullscreen mode": "= 全屏模式",
 	"- Move canvas": "= 移动画布",
