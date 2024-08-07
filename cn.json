@@ -13,7 +13,7 @@
     "Image Prompt": "图像提示",
     "Inpaint or Outpaint": "局部重绘",
     "Outpaint Direction": "外绘方向",
-    "Enable Advanced Masking Features": "启用高级遮罩功能",
+    "Enable Advanced Masking Features": "启用高级蒙版功能",
     "Method": "绘制算法",
     "Inpaint Additional Prompt": "附加重绘提示词",
     "Describe what you want to inpaint.": "描述所需重绘的区域",
