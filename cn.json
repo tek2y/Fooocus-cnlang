@@ -133,7 +133,7 @@
     "Hyper-SD": "Hyper-SD模型加速",
     "Aspect Ratios": "图像比例",
     "width \u00d7 height": "宽度 × 高度",
-    "Image Number": "图像编号",
+    "Image Number": "图像生成数量",
     "Output Format": "输出图像格式",
     "Negative Prompt": "反向提示",
     "Describing what you do not want to see.": "描述你不想看到的内容。",
