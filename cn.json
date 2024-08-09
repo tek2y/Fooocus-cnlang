@@ -274,7 +274,7 @@
     "Show enhance masks in preview and final results": "在预览和最终结果中显示增强蒙版",
     "Debug GroundingDINO": "调试 GroundingDINO",
     "Use GroundingDINO boxes instead of more detailed SAM masks": "使用 GroundingDINO 框而不是更详细的 SAM 蒙版",
-    "Disable initial latent in inpaint": "禁用局部重绘中的初始潜在",
+    "Disable initial latent in inpaint": "禁止在重绘中使用初始潜在变量",
     "Inpaint Engine": "重绘引擎",
     "Version of Fooocus inpaint model. If set, use performance Quality or Speed (no performance LoRAs) for best results.": "Fooocus 重绘模型的版本。如果设置，请使用性能质量或速度（无性能 LoRAs ）以获得最佳结果。",
     "v1": "v1",
